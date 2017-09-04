@@ -1,1 +1,1 @@
-just tried to solve the exercise problems from [eloquent JavaScript] (http://eloquentjavascript.net/) book
+just tried to solve the exercise problems from <a href="http://eloquentjavascript.net/">eloquent JavaScript </a> book
